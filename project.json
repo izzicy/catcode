@@ -1,0 +1,9 @@
+{
+  "name": "catcode",
+  "$schema": "node_modules/nx/schemas/project-schema.json",
+  "includedScripts": [],
+  "projectType": "application",
+  "sourceRoot": "./src",
+  "// targets": "to see all targets run: nx show project catcode --web",
+  "targets": {}
+}
